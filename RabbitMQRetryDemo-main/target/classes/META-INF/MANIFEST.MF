@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ashvinee
+Build-Jdk: 17.0.8.1
+Implementation-Title: rabbitmq-retry
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: gsahoo.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/rabbitmq-retry
+Created-By: Maven Integration for Eclipse
+
